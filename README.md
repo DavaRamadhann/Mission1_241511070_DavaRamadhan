@@ -7,7 +7,7 @@ Dibuat untuk memenuhi tugas kuliah **Pengembangan Perangkat Lunak Berbasis Web**
 
 ## 🧑‍💻 Tentang Proyek
 Website ini adalah landing page satu halaman yang berisi identitas diri, riwayat pendidikan, pengalaman, keterampilan, proyek/portofolio, serta kontak.  
-Didesain dengan HTML5, CSS3, dan memodifikasi template **Identity (HTML5 UP)** lebih dari 50% agar sesuai kebutuhan portofolio mahasiswa.
+Didesain dengan HTML, CSS, dan memodifikasi template **Identity (HTML5 UP)** lebih dari 50% agar sesuai kriteria tugas.
 
 ---
 
@@ -17,11 +17,11 @@ Didesain dengan HTML5, CSS3, dan memodifikasi template **Identity (HTML5 UP)** l
 - Pengalaman
 - Daftar keterampilan (skills)
 - Proyek / portofolio (2 contoh proyek)
-  - **Proyek 1:** Pemanfaatan Aplikasi Perkantoran (Excel/Spreadsheet)  
+  - **Proyek 1:** Pemanfaatan Aplikasi Perkantoran
     Mencari lowongan pekerjaan dan mengolah data dengan berbagai fungsi Excel.
-  - **Proyek 2:** Pengembangan Aplikasi Berbasis Library (GameBot 2D)  
+  - **Proyek 2:** Pengembangan Aplikasi Berbasis Library
     Membuat game sederhana mirip Flappy Bird dengan library pemrograman.
-- Kontak (Email, GitHub, LinkedIn, Instagram)
+- Kontak (Email, GitHub, Instagram)
 - Tambahan: galeri/foto profil
 
 ---
