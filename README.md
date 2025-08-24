@@ -27,8 +27,8 @@ Didesain dengan HTML5, CSS3, dan memodifikasi template **Identity (HTML5 UP)** l
 ---
 
 ## 🛠 Teknologi yang Digunakan
-- HTML5
-- CSS3
+- HTML
+- CSS
 - Template HTML5 UP (Identity)
 
 ---
