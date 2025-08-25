@@ -48,7 +48,7 @@ Dengan perubahan ini, lebih dari **70% struktur HTML dan CSS** sudah berbeda dar
 
 ## 🚀 Deploy
 Proyek ini bisa diakses melalui GitHub Pages:  
-👉 [https://username.github.io/portofolio-dava](https://username.github.io/portofolio-dava)
+👉 [https://davaramadhann.github.io/Mission1_241511070_DavaRamadhan/](https://davaramadhann.github.io/Mission1_241511070_DavaRamadhan)
 
 ---
 
